@@ -1,9 +1,6 @@
 Hi, I’m Ideful👋
 
-A student of Moscow 21 School. 
-
-Just starting to programming, 
-I would appreciate any knowledges and experience you could share!
+A student of Moscow 21 School. I would appreciate any knowledges and experience you could share!
 
 Also I'll be happy to discuss any other things in telegram
 @Ideful
