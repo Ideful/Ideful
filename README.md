@@ -2,14 +2,14 @@ Hi there!
 
 My name is Konstantin, I am a student of Moscow 21 School. 
 
-Today, on 29.04 I've finished "C" language branch in 21-st.
-Now I am going to start learn OOP with C++ lang. 
-In June I will successfully finish SQL Bootcamp in the school.
+In April I've finished "C" language branch in 21-st School.
+Now I am learning OOP with C++ lang. 
+In June I will successfully finish SQL Bootcamp and continue to study.
 
 Also I'll be happy to discuss any other things in telegram
 @Ideful
 
-gl
+gl!
 
 
 <!---
