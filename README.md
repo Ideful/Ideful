@@ -1,12 +1,8 @@
 Hi there!
 
-My name is Konstantin, I am a student of Moscow 21 School. 
+My name is Konstantin, I am a student of Moscow 21 School. Learning and improving code features.
 
-In April I've finished "C" language branch in 21-st School.
-Now I am learning OOP with C++ lang. 
-In June I will successfully finish SQL Bootcamp and continue to study.
-
-Also I'll be happy to discuss any other things in telegram
+I'll be happy to discuss code or any other things in telegram.
 @Ideful
 
 gl!
