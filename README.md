@@ -8,7 +8,7 @@ I'll be happy to discuss code or any other things in telegram.
 gl!
 
 ### Leet Code:
-  [<img  width="95%" high src="https://leetcode-stats-six.vercel.app/api?username=HYUEHFJKhfjklkej&theme=dark">](https://leetcode.com/gagoshidzekonstantin/)
+  [<img  width="95%" high src="https://leetcode-stats-six.vercel.app/api?username=gagoshidzekonstantin&theme=dark">](https://leetcode.com/gagoshidzekonstantin/)
   
  
 <!-- <br> -->
