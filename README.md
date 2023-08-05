@@ -1,6 +1,6 @@
-Hi there!
+hi there
 
-My name is Konstantin, I am a student of Moscow 21 School. Learning and improving code features.
+my name is Konstantin, I am a student of Moscow 21 School. Learning and improving code features.
 
 ### Contacts:
 
