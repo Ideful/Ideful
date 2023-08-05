@@ -9,7 +9,7 @@ My name is Konstantin, I am a student of Moscow 21 School. Learning and improvin
 </p>
 
 ### Leet Code:
-  [<img  width="95%" high src="https://leetcode-stats-six.vercel.app/api?username=gagoshidzekonstantin&theme=dark">](https://leetcode.com/Ideful/)
+  [<img  width="95%" high src="https://leetcode-stats-six.vercel.app/api?username=Ideful&theme=dark">](https://leetcode.com/Ideful/)
   
  
 <!-- <br> -->
