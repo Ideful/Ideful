@@ -1,4 +1,4 @@
-<font size="25">Hi there!</font>
+Hi there!**
 
 My name is Konstantin.  
 Here you could find my projects.
