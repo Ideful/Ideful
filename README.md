@@ -1,6 +1,6 @@
 Hi there!
 My name is Konstantin.  
-Were you could find my projects.
+Here you could find my projects.
 
 
 ### Contacts:
