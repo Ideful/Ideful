@@ -1,5 +1,5 @@
 Hi there!
-My name is Konstantin
+My name is Konstantin.
 Here you could find my projects
 
 
