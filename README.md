@@ -1,7 +1,7 @@
 Hi there!
 My name is Konstantin.<p></p>
 
-Here you could find my projects
+Here you could find my projects.
 
 
 ### Contacts:
