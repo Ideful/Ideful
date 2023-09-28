@@ -13,8 +13,6 @@ Here you could find my projects.
 ### Leet Code:
   [<img  width="95%" high src="https://leetcode-stats-six.vercel.app/api?username=Ideful&theme=dark">](https://leetcode.com/Ideful/)
   
- 
-
 
 
 <!---
