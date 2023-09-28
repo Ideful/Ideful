@@ -14,9 +14,7 @@ Here you could find my projects.
   [<img  width="95%" high src="https://leetcode-stats-six.vercel.app/api?username=Ideful&theme=dark">](https://leetcode.com/Ideful/)
   
  
-<!-- <br> -->
-<!-- [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=HYUEHFJKhfjklkej&theme=dark)](https://leetcode.com/HYUEHFJKhfjklkej/) -->
-<!-- <br><br> -->
+
 
 
 <!---
